@@ -1,13 +1,1 @@
-
- 
-clear
-
-
-help
-ggit exit
-exit
-
-
-cat
-.
-..
+hello
